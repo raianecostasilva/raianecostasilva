@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @raianecostasilva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-raianecostasilva/raianecostasilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Raiane Costa,👩‍💻
+programadora formadando em TADS pelo IFMT. 👩‍🎓Apaixonada por resolver problemas com tecnologia. 
+Busco desafios e oportunidades para criar soluções inovadoras.
+Disposta a contribuir em projetos de impacto.💟✔️
